@@ -1,0 +1,15 @@
+
+[INFO ] 2020-05-03 04:48:13.717 [main] BaseClass - *****************Open Chrome Browser Successfully************************
+[INFO ] 2020-05-03 04:48:14.834 [main] BaseClass - *****************take ScreenShot ad of Forbes page***********
+[INFO ] 2020-05-03 04:48:29.271 [main] BaseClass - *****************take ScreenShot title of WorldsBillionaires page***********
+[INFO ] 2020-05-03 04:48:29.918 [main] BaseClass - *****************take ScreenShot ad of WorldsBillionaires page***********
+[INFO ] 2020-05-03 04:48:39.852 [main] BaseClass - *****************take ScreenShot title of Advisor page***********
+[INFO ] 2020-05-03 04:48:39.875 [main] BaseClass - *****************check label Advisor page***********
+[INFO ] 2020-05-03 04:48:39.904 [main] BaseClass - *****************check sublabel Advisor page***********
+[INFO ] 2020-05-03 04:48:40.215 [main] BaseClass - *****************check ad in Advisor page***********
+[INFO ] 2020-05-03 04:48:40.234 [main] BaseClass - *****************get color of Advisor page***********
+[INFO ] 2020-05-03 04:48:40.305 [main] BaseClass - *****************click on search icon***********
+[INFO ] 2020-05-03 04:48:40.619 [main] BaseClass - *****************take ScreenShot title of Advisor page***********
+[INFO ] 2020-05-03 04:48:40.687 [main] BaseClass - *****************enter data in search bar***********
+[INFO ] 2020-05-03 04:48:43.022 [main] BaseClass - *****************take ScreenShot title of Advisor page***********
+[INFO ] 2020-05-03 04:48:47.107 [main] BaseClass - *****************Close Browser************************
